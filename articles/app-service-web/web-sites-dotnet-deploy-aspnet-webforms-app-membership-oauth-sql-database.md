@@ -25,6 +25,10 @@ This tutorial shows you how to build a secure ASP.NET 4.5 Web Forms web app that
 >[AZURE.NOTE] 
 For an MVC version of this tutorial, see [Create an ASP.NET MVC app with auth and SQL DB and deploy to Azure App Service](web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database.md).
 
+>[AZURE.NOTE]
+This tutorial will not work with Visual Studio 2015 since the [Web Forms Scaffolding](https://visualstudiogallery.msdn.microsoft.com/a6c3614f-83be-4749-afbc-8da394b6ea86) plugin from Outercurve Foundation is not supported in VS2015.
+
+
 You can open an Azure account for free, and if you don't already have Visual Studio 2013, the SDK automatically installs Visual Studio 2013 for Web Express. You can start developing for Azure for free.
 
 This tutorial assumes that you have no prior experience using Microsoft Azure. Once completing this tutorial, you'll have a web application up and running in the cloud that uses a cloud database.
